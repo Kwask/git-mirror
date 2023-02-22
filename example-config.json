@@ -1,0 +1,6 @@
+{
+    "tokens": {
+        "github": "YOUR_GITHUB_TOKEN",
+        "gitlab": "YOUR_GITLAB_TOKEN"
+    }
+}
